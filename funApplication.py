@@ -49,7 +49,7 @@ def task2():
         hl.place(x=200,y=180)
         hb=Button(h,text="Final Task",font=("Segoe Print",30),width=20,command=last)
         hb.place(x=450,y=420)
-    tb=Button(t,text="sumbit",font=("28 Days Later",20),command=track)
+    tb=Button(t,text="submit",font=("28 Days Later",20),command=track)
     tb.place(x=700,y=450)
 def aus():
     k=Tk()
